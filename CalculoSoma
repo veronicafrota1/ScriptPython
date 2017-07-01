@@ -1,0 +1,8 @@
+# Calcular a soma entre dois numero - VSF
+# Desafio 02 - Teste
+
+num1 = input("Informe o primeiro numero: ")
+num2 = input("Informe o segundo numero: ")
+resultado = int(num1) + int(num2)
+print("O resultado da soma entre " , num1, " e ", num2, " é: ", resultado)
+
