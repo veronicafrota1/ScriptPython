@@ -1,5 +1,8 @@
 # Programa que exibe mensagem de boas vindas - VSF
-# Desafio 01
+# Teste 01
 
-nome = input("Informe seu nome: ")
+# Recebe o nome
+nome = input("Digite seu nome: ")
+
+# Exibe mensagem
 print("Seja bem vindo(a) " + nome)
